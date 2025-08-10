@@ -1,0 +1,4 @@
+opredelenie  modeley   migracii sozdanie vypolnenie
+crud      osnovy         orm po rabote s  modelyami
+django-shablony  templates-nachalo
+podklyuchenie-staticheskih-faylov-filtry-shablonov

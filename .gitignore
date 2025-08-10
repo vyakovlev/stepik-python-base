@@ -1,0 +1,21 @@
+# temp files
+*~
+.swp
+
+# others
+__pycache__
+.devcontainer
+.private
+.prv
+.pyc
+.python-version
+.retry
+.vagrant
+.vault
+.vscode
+.DS_Store
+*.log
+/.idea/
+/collections/
+/venv/
+
